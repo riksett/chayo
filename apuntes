@@ -1,0 +1,9 @@
+funciones git terminal
+
+//git config --global user.name "Rebecca López Cano"
+//git config --global user.email "rmlc07@educa.madrid.org"
+//git config --global -l init.defaultbranch=main
+
+//git commit -m "Primer commit"
+//git log 
+//git log --oneline
