@@ -4,6 +4,21 @@ funciones git terminal
 //git config --global user.email "rmlc07@educa.madrid.org"
 //git config --global -l init.defaultbranch=main
 
+//git status
 //git commit -m "Primer commit"
 //git log 
-//git log --oneline
+//git log --oneline  <- Para ver los commits
+// ñ/IdeaProjects   git clone https://github.com/ravi2krishna/ecomm.git
+origin = rama conectada
+main = rama local
+
+//git remote
+
+Github 
+Settings > Developer Settings > Personal access tokens > Tokens (classic)
+sin expiración
+marcar repo
+
+nano (para crear archivo) mitoken(nombre del archivo)
+
+//git push origin main
